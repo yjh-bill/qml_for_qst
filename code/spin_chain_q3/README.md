@@ -2,4 +2,4 @@
 
 #### Note
 
-By default, for each iteration, SPSA algorithm evaluates $f(\vec{x}+\vec{\Delta})$ and $f(\vec{x}-\vec{\Delta})$, making two function calls. However, if one would like to know how the training loss evolves for $f(\vec{x})$, then an additional call is needed. Hence, there are two versions of code. To obtain the data for loss-vs-iteration, use `Alt_kl_eps3_plotloss.ipynb`. To save computation resource, use `Alt_kl_eps3_trial0.ipynb`.
+By default, for each iteration, SPSA algorithm evaluates $f\left(\vec{x}+\vec{\Delta}\right)$ and $f\left(\vec{x}-\vec{\Delta}\right)$, making two function calls. However, if one would like to know how the training loss evolves for $f\left(\vec{x}\right)$, then an additional call is needed. Hence, there are two versions of code. To obtain the data for loss-vs-iteration, use `Alt_kl_eps3_plotloss.ipynb`. To save computation resource, use `Alt_kl_eps3_trial0.ipynb`.
