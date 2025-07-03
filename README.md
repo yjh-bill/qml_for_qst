@@ -1,1 +1,1 @@
-This repository contains the code implementation for the manuscript "Quantum state reconstruction with variational quantum circuit"  to be published
+This repository contains the code implementation for the paper [Quantum state reconstruction with variational quantum circuit](https://arxiv.org/abs/2507.01246)
